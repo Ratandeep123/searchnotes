@@ -1,0 +1,23 @@
+body{
+    background-color:black!important;
+}
+
+.tableHead th{
+    font-size: 20px;
+    color:white;
+    background-color:#3a8594;
+    border:0px;
+}
+.tableData{
+    background-color:#3a8594;
+    color:white;
+}
+table table-bordered{
+border:0px;
+}
+.rang{
+    color:white;
+}
+
+
+

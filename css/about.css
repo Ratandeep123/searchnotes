@@ -1,0 +1,98 @@
+body {
+    font-family: "Lato", sans-serif;
+  }
+
+  .info{
+      color: white;
+  }
+  .info.contact{
+    border: 1px solid grey;
+    margin-top: 10px;
+  }
+  
+  .info.contact img{
+    vertical-align: bottom !important;
+    display: inline-block;
+    margin-right: 30px;
+    height: 200px;
+    width: 211px;
+  }
+
+  .info.contact p{
+    display: inline-block;
+    height: 180px;
+    margin-left: 0px;
+  }
+
+
+  .infoFooter{
+      text-align: center;
+      margin-top: 100px;
+  }
+
+  .infoFooter a, .infoFooter a:hover{
+    color: #3a8594;
+    text-decoration: none;
+    font-size: 22px;
+  }
+
+  .info p{
+      font-size: 21px;
+  }
+
+  .infoLogo{
+      text-align: center;
+      margin-top:40px; 
+  }
+  .sidenav {
+    height: 100%;
+    width: 0;
+    position: fixed;
+    z-index: 1;
+    top: 0;
+    left: 0;
+    background-color:#3a8594;
+    overflow-x: hidden;
+    transition: 0.5s;
+    padding-top: 60px;
+  }
+  
+  .sidenav a {
+    color: white;
+  }
+  
+  .sidenav a:hover {
+    color: #f1f1f1;
+    text-decoration: none;
+  }
+  
+  .sidenav .closebtn {
+    position: absolute;
+    top: 0;
+    right: 25px;
+    font-size: 36px;
+    margin-left: 50px;
+  }
+  
+  #main {
+    transition: margin-left .5s;
+    padding: 16px;
+    color:#3a8594;
+    
+  }
+  
+  @media screen and (max-height: 450px) {
+    .sidenav {padding-top: 15px;}
+    .sidenav a {font-size: 18px;}
+}
+.upldBtn{
+    border: 0px;
+    background-color: transparent;
+    color: white;
+    font-size: 19px;
+}
+.btonn{
+  float: right;
+    margin-top: 25px;
+    color: #3a8594;
+}

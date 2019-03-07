@@ -1,0 +1,169 @@
+
+body{
+     background-color:black !important;
+}
+.name{
+    background-color: #3a8594;
+    border: 0px;
+    width: 450px;
+    padding: 20px;
+}
+.buttonx{
+    float:left;
+    color: #fff;
+    border-color: #3a8594;
+    border: 0px;
+  
+}
+.logoNdBox{
+    text-align: center;
+    padding-bottom:10px;
+
+}
+.btnn{
+    position: relative;
+    padding: 0px !important;
+    border:0px !important; 
+}
+
+.btnClr{
+    background-color: #3a8594;
+}
+.bton{
+    background-color:#3a8594;
+}
+
+.searchBox{
+    background-color: #3a8594 !important;
+    height: 42px;
+    padding: 0px 217px 0px 12px;
+    font-size: 14px;
+    line-height: 1.42857143;
+    color: #ddd;
+    background-image: none;
+    border: 0px;
+    border-radius: 4px;
+ }
+
+ .searchButton{
+    background-color: #3a8594 !important;
+    height: 42px;
+    padding: 0px 20px;
+    font-size: 14px;
+    line-height: 1.42857143;
+    color: #ddd;
+    background-image: none;
+    border: 0px;
+    border-radius: 4px;
+    vertical-align: middle;
+    margin-left: 3px;
+    position: fixed;
+ }
+ .bdr{
+    padding: 15px;
+    text-align: right;
+    border-top: 0px solid #e5e5e5 !important;
+ }
+
+ .searchIcon{
+    color: #ddd;
+ }
+
+ .btnUp{
+    background-color: inherit;
+    font-size: 16px;
+    cursor: pointer;
+    display: inline-block;
+    border: 3px solid #3e8594;
+    font-weight: 700;
+ }
+
+
+.smallBody{
+    border: 2px solid#3e8594;
+    background-color: #3e8594;
+}
+.someBody{
+    margin-top: 24px;
+    margin-bottom: 24px;
+    margin-left: 12px;
+    margin-right: 12px;
+   
+}
+h1{
+    font-size: 27px;
+    text-align:center;
+}
+.MainClass{
+    padding-top: 15px !important;
+    padding-left: 50px !important;
+    padding-right: 50px !important;
+    background-color:black;
+}
+.Box{
+    background-color: #3a8594; 
+    border: 0px;
+    padding-top: 10px;
+    border-radius: 8px;
+    padding-left: 12px;
+    padding-right: 60px;
+    font-size: 20px;
+    text-align:left;
+    padding-bottom:10px;
+}
+::placeholder {
+    color: white;
+    opacity: 1;
+
+    
+  }
+
+h1{ 
+    font-size: 100px !important;
+    color:#d70f89 !important;
+    margin-top: 68px !important;
+}
+
+h4{
+    color: white !important;
+    font-size: 20px;
+    text-align: center;
+}
+.user{
+    margin-bottom: 10px;
+}
+.rem{
+    display: inline-block;
+}
+.cancel{
+    display: inline-block;
+    float: right;
+}
+.remem{
+    padding: 10px;
+}
+
+.rememCheck{
+    margin: 0px !important;
+    display: inline-block !important;
+}
+
+.submitbtn{
+    text-align: center;
+}
+
+.parent{
+    width:900px;
+}
+.sbox{
+    background-color:#3a8594;
+    border-color: #3a8594;
+    padding: 14px;
+    border: 0px !important;
+    border-radius: 6px !important;
+}
+
+.tableParent{
+    margin-right: 50px;
+    margin-left: 50px;
+}

@@ -1,0 +1,51 @@
+input[type=text] {
+  box-sizing: border-box;
+  border-radius: 0px;
+  -webkit-transition: width 0.4s ease-in-out;
+  transition: width 0.4s ease-in-out;
+
+}
+.another{
+  width:570px;
+}
+.bs-example{
+    font-family: sans-serif;
+    position: relative;
+    margin: 50px;
+}
+
+.tt-query {
+    box-shadow: 0 1px 1px rgba(0, 0, 0, 0.075) inset;
+}
+.tt-hint {
+    color: #FFFFFF;
+}
+.tt-dropdown-menu {
+    background-color: #FFFFFF;
+    border-radius: 1px;
+    box-shadow: 0 5px 10px rgba(0, 0, 0, 0.2);
+    width: auto;
+    position: relative !important;
+}
+.tt-suggestion {
+    font-size: 18px;
+    line-height: 18px;
+    border-left: 1px solid #ddd;
+    border-bottom: 1px solid #ddd;
+    border-right: 1px solid #ddd;    
+    padding-top: 6px;
+    padding-bottom: 6px;
+}
+.tt-suggestion.tt-is-under-cursor {
+    background-color: #08D671;
+    color: #FFFFFF;
+}
+.tt-suggestion p {
+    margin: 0;
+}
+rmenu{
+  float: right;
+  padding-right: 13px;
+  padding-top: 10px;
+
+}
